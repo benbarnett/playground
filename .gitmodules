@@ -1,9 +1,6 @@
 [submodule "canvas-mask"]
 	path = canvas-mask
 	url = https://github.com/benbarnett/canvas-mask.git
-[submodule "jquery-animate-enhanced"]
-	path = jquery-animate-enhanced
-	url = https://github.com/benbarnett/jquery-animate-enhanced.git
 [submodule "svg-tube-map"]
 	path = svg-tube-map
 	url = https://github.com/benbarnett/svg-tube-map.git

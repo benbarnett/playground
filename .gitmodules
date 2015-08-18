@@ -7,3 +7,6 @@
 [submodule "jquery-animate-enhanced"]
 	path = jquery-animate-enhanced
 	url = https://github.com/benbarnett/jquery-animate-enhanced.git
+[submodule "jquery-get-enhanced"]
+	path = jquery-get-enhanced
+	url = https://github.com/benbarnett/jquery-get-enhanced.git
